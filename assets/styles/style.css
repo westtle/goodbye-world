@@ -53,6 +53,10 @@ img {
     margin: 0 auto;
 }
 
+hr {
+    border: var(--border-shorthand);
+}
+
 /* Notice / Link */
 
 #notice {
