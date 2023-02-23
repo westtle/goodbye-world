@@ -35,10 +35,6 @@ main {
     max-width: 15.938rem;
 }
 
-#hello-world {
-    width: 100%;
-}
-
 p {
     margin: 0 0 1.313rem 0;
     font-style: italic;
