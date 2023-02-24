@@ -50,7 +50,8 @@ img {
 }
 
 hr {
-    border: var(--border-shorthand);
+    border: none;
+    border-top: 2px solid var(--border-color);
 }
 
 /* Notice / Link */
